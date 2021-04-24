@@ -4,8 +4,16 @@
 
 .main {
   background-color: red;
+  height: 50px;
+  width: 100%;
 }
 
 .sidebar {
   background-color: seagreen;
+  height: 50px;
+  width: 100%;
+}
+
+.post_title {
+  display: flex;
 }
