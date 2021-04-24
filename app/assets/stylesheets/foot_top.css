@@ -1,5 +1,6 @@
 .title {
   background-color: blue;
+  height: 200px;
 }
 
 .main {
@@ -14,6 +15,10 @@
   width: 100%;
 }
 
-.post_title {
+.post {
   display: flex;
+  background-color: slateblue;
+  margin: 30px;
+  padding: 30px;
+  height: 100vh;
 }
