@@ -1,6 +1,10 @@
 .title {
   background-color: blue;
-  height: 200px;
+}
+
+.www {
+  text-align: center;
+  font-size: 50px;
 }
 
 .main {
@@ -9,7 +13,13 @@
   width: 100%;
 }
 
-.sidebar {
+.left-sidebar {
+  background-color: seagreen;
+  height: 50px;
+  width: 100%;
+}
+
+.light-sidebar {
   background-color: seagreen;
   height: 50px;
   width: 100%;
