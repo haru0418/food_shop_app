@@ -38,3 +38,17 @@
   padding: 30px;
   height: 100vh;
 }
+
+.linka {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: springgreen;
+  height: 100px;
+  margin: 10px;
+}
+
+.show {
+  height: 50px;
+  background-color: tan;
+}
