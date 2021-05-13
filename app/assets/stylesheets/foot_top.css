@@ -45,10 +45,13 @@
   align-items: center;
   background-color: springgreen;
   height: 100px;
-  margin: 10px;
+  width: 90%;
 }
 
 .show {
-  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
   background-color: gold;
 }
