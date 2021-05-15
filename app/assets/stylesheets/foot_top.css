@@ -25,6 +25,17 @@
   width: 20vw;
 }
 
+.sade-bar-link {
+  background-color: goldenrod;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.side_bar_name {
+  background-color: gold;
+}
+
 .light-sidebar {
   background-color: seagreen;
   height: 500px;
